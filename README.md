@@ -10,4 +10,6 @@ XAMPP webserver with Apache and **MySQL** to connect and **test database**,
 Jira for **Agile test management** and **bug tracking**,
 Chrome browser 
 
+![Report](C:\Users\annus\Desktop\annu\Software Testing\OpenCart\Screen_shots_OpenCart "Project Report")
+
 
